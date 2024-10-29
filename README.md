@@ -1,4 +1,4 @@
-
+一个基于 GitHub 的图床
 # Welcome to use PicX
 
 [PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
